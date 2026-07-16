@@ -16,7 +16,8 @@ Self-hosted platforms | event-driven systems | practical AI tooling
 
 [![EventMesh](https://img.shields.io/badge/EventMesh-messaging-0A7ACA?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/nrzz/EventMesh)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/nrzz/EventMesh/blob/main/LICENSE)
-[![NuGet](https://img.shields.io/nuget/v/EventMesh.Core.svg?style=flat-square&label=NuGet)](https://www.nuget.org/packages/EventMesh.Core/)
+[![Build](https://img.shields.io/github/actions/workflow/status/nrzz/EventMesh/ci.yml?branch=main&label=build&style=flat-square)](https://github.com/nrzz/EventMesh/actions/workflows/ci.yml)
+[![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/nrzz/EventMesh)
 
 **[EventMesh](https://github.com/nrzz/EventMesh)** — Universal broker-agnostic messaging platform for .NET.
 
@@ -35,8 +36,8 @@ Self-hosted platforms | event-driven systems | practical AI tooling
 
 ## Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nrzz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nrzz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nrzz&theme=github_dark)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrzz&theme=github_dark)
 
 ## Connect
 
