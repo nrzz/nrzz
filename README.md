@@ -23,8 +23,10 @@ Nine small, open-source tools that make Claude Code cheaper, safer and easier to
 | **[claude-code-starter-kits](https://github.com/nrzz/claude-code-starter-kits)** | A lean, safe `.claude/` for .NET, Node, Python, Go, Flutter or Java in one command |
 | **[claude-session-replay](https://github.com/nrzz/claude-session-replay)** | Search every past session, and export one as a self-contained HTML replay |
 
-```text
-/plugin marketplace add nrzz/claude-code-toolkit
+Set them up in one click: this opens a local setup page with the recommended tools already switched on.
+
+```bash
+npx -y github:nrzz/claude-code-toolkit
 ```
 
 It started with an audit of five weeks of my own usage (1,840 requests): 61% of the cost was cache re-writes, and 42 of the 55 full re-writes happened because I came back to an old chat after more than an hour. [claude-code-handover](https://github.com/nrzz/claude-code-handover) fixes that, and its audit scripts let you run the same numbers on your own sessions.
