@@ -15,7 +15,7 @@ Nine small, open-source tools that make Claude Code cheaper, safer and easier to
 |:-----|:-------------|
 | **[claude-code-handover](https://github.com/nrzz/claude-code-handover)** | Short sessions that pick up where the last one stopped: a handover file, a decisions log and automatic recall |
 | **[claude-code-team-sync](https://github.com/nrzz/claude-code-team-sync)** | Share sessions, notes and team context with coworkers through git, synced in the background |
-| **[claude-code-glow](https://github.com/nrzz/claude-code-glow)** | 15 themes for the whole interface, a status line with a context meter, and a live HUD |
+| **[claude-code-glow](https://github.com/nrzz/claude-code-glow)** | 14 themes for the whole interface, a status line with a context meter, and a live HUD |
 | **[claude-code-guardrails](https://github.com/nrzz/claude-code-guardrails)** | Stops `rm -rf /`, force pushes, secrets in commits and `.env` edits, at zero tokens per allowed call |
 | **[claude-code-notify](https://github.com/nrzz/claude-code-notify)** | A ping when Claude needs you or finishes: terminal, desktop, phone, Slack, Discord or Teams |
 | **[claude-cost-guard](https://github.com/nrzz/claude-cost-guard)** | Daily and weekly budgets with zero-token warnings and an optional hard stop |
