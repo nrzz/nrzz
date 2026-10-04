@@ -29,7 +29,7 @@ Set them up in one click: this opens a local setup page with the recommended too
 npx -y github:nrzz/claude-code-toolkit
 ```
 
-It started with an audit of five weeks of my own usage (1,840 requests): 61% of the cost was cache re-writes, and 42 of the 55 full re-writes happened because I came back to an old chat after more than an hour. [claude-code-handover](https://github.com/nrzz/claude-code-handover) fixes that, and its audit scripts let you run the same numbers on your own sessions.
+It started with an audit of five weeks of my own usage (1,840 requests): 61% of the cost was cache re-writes, and 42 of the 55 full re-writes happened because I came back to an old chat after a break of 55 minutes or more. [claude-code-handover](https://github.com/nrzz/claude-code-handover) fixes that, and its audit scripts let you run the same numbers on your own sessions.
 
 ### [Sentinel](https://github.com/nrzz/Sentinel)
 
