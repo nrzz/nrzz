@@ -9,7 +9,7 @@
 
 ### [Claude Code toolkit](https://github.com/nrzz/claude-code-toolkit)
 
-Nine small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all nine from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
+Ten small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all ten from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
 
 | Tool | What it does |
 |:-----|:-------------|
@@ -22,6 +22,7 @@ Nine small, open-source tools that make Claude Code cheaper, safer and easier to
 | **[claude-md-doctor](https://github.com/nrzz/claude-md-doctor)** | What your CLAUDE.md costs in every session, and the fixes that save the most |
 | **[claude-code-starter-kits](https://github.com/nrzz/claude-code-starter-kits)** | A lean, safe `.claude/` for .NET, Node, Python, Go, Flutter or Java in one command |
 | **[claude-session-replay](https://github.com/nrzz/claude-session-replay)** | Search every past session, and export one as a self-contained HTML replay |
+| **[claude-chat-ferry](https://github.com/nrzz/claude-chat-ferry)** | Continue a Cursor or Antigravity chat in Claude Code, or hand a Claude Code session to them |
 
 Set them up in one click: this opens a local setup page with the recommended tools already switched on.
 
