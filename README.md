@@ -2,7 +2,7 @@
 
 **Backend engineer in Bangalore.** I build open-source infrastructure in .NET, and tools that make AI coding sessions cheaper to run.
 
-[![Follow @nrzz](https://img.shields.io/badge/Follow-%40nrzz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nrzz)
+[![Follow @nrzz](https://img.shields.io/github/followers/nrzz?style=flat-square&logo=github&logoColor=white&label=Follow%20%40nrzz&color=181717)](https://github.com/nrzz?tab=followers)
 [![Email](https://img.shields.io/badge/Email-nareshprabu18%40gmail.com-0A7ACA?style=flat-square)](mailto:nareshprabu18@gmail.com)
 
 ## What I'm building
@@ -31,6 +31,8 @@ npx -y github:nrzz/claude-code-toolkit
 ```
 
 It started with an audit of five weeks of my own usage (1,840 requests): 61% of the cost was cache re-writes, and 42 of the 55 full re-writes happened because I came back to an old chat after a break of 55 minutes or more. [claude-code-handover](https://github.com/nrzz/claude-code-handover) fixes that, and its audit scripts let you run the same numbers on your own sessions.
+
+On the toolkit's [roadmap](https://github.com/nrzz/claude-code-toolkit/blob/main/ROADMAP.md): a tool that measures what each MCP server's tool list costs per session, and a doctor that lists which toolkit tools are installed and whether an update is out. Both are open to contributors; follow to see them land.
 
 ### [Sentinel](https://github.com/nrzz/Sentinel)
 
