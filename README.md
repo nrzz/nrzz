@@ -9,7 +9,7 @@
 
 ### [Claude Code toolkit](https://github.com/nrzz/claude-code-toolkit)
 
-Eleven small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all eleven from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
+Twelve small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all twelve from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
 
 | Tool | What it does |
 |:-----|:-------------|
@@ -24,6 +24,7 @@ Eleven small, open-source tools that make Claude Code cheaper, safer and easier 
 | **[claude-session-replay](https://github.com/nrzz/claude-session-replay)** | Search every past session, and export one as a self-contained HTML replay |
 | **[claude-chat-ferry](https://github.com/nrzz/claude-chat-ferry)** | Continue a Cursor or Antigravity chat in Claude Code, or hand a Claude Code session to them |
 | **[claude-session-tidy](https://github.com/nrzz/claude-session-tidy)** | Delete, keep and restore your sessions before the 30-day cleanup removes them |
+| **[claude-permission-doctor](https://github.com/nrzz/claude-permission-doctor)** | See why a permission prompt appeared, drop dead rules and add the ones you keep approving by hand |
 
 Set them up in one click: this opens a local setup page with the recommended tools already switched on.
 
@@ -33,7 +34,7 @@ npx -y github:nrzz/claude-code-toolkit
 
 It started with an audit of five weeks of my own usage (1,840 requests): 61% of the cost was cache re-writes, and 42 of the 55 full re-writes happened because I came back to an old chat after a break of 55 minutes or more. [claude-code-handover](https://github.com/nrzz/claude-code-handover) fixes that, and its audit scripts let you run the same numbers on your own sessions.
 
-Next, I am building `claude-permission-doctor`: why a permission prompt appeared, dead rules, and rules suggested from your history. Follow to see it land.
+Ideas for the next tool are welcome in the [toolkit discussions](https://github.com/nrzz/claude-code-toolkit/discussions); follow to see releases land.
 
 ### [Sentinel](https://github.com/nrzz/Sentinel)
 
