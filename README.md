@@ -9,7 +9,7 @@
 
 ### [Claude Code toolkit](https://github.com/nrzz/claude-code-toolkit)
 
-Ten small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all ten from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
+Eleven small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all eleven from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
 
 | Tool | What it does |
 |:-----|:-------------|
@@ -23,6 +23,7 @@ Ten small, open-source tools that make Claude Code cheaper, safer and easier to 
 | **[claude-code-starter-kits](https://github.com/nrzz/claude-code-starter-kits)** | A lean, safe `.claude/` for .NET, Node, Python, Go, Flutter or Java in one command |
 | **[claude-session-replay](https://github.com/nrzz/claude-session-replay)** | Search every past session, and export one as a self-contained HTML replay |
 | **[claude-chat-ferry](https://github.com/nrzz/claude-chat-ferry)** | Continue a Cursor or Antigravity chat in Claude Code, or hand a Claude Code session to them |
+| **[claude-session-tidy](https://github.com/nrzz/claude-session-tidy)** | Delete, keep and restore your sessions before the 30-day cleanup removes them |
 
 Set them up in one click: this opens a local setup page with the recommended tools already switched on.
 
@@ -32,7 +33,7 @@ npx -y github:nrzz/claude-code-toolkit
 
 It started with an audit of five weeks of my own usage (1,840 requests): 61% of the cost was cache re-writes, and 42 of the 55 full re-writes happened because I came back to an old chat after a break of 55 minutes or more. [claude-code-handover](https://github.com/nrzz/claude-code-handover) fixes that, and its audit scripts let you run the same numbers on your own sessions.
 
-On the toolkit's [roadmap](https://github.com/nrzz/claude-code-toolkit/blob/main/ROADMAP.md): a tool that measures what each MCP server's tool list costs per session, and a doctor that lists which toolkit tools are installed and whether an update is out. Both are open to contributors; follow to see them land.
+Next, I am building `claude-permission-doctor`: why a permission prompt appeared, dead rules, and rules suggested from your history. Follow to see it land.
 
 ### [Sentinel](https://github.com/nrzz/Sentinel)
 
