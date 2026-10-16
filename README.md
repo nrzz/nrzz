@@ -9,7 +9,7 @@
 
 ### [Claude Code toolkit](https://github.com/nrzz/claude-code-toolkit)
 
-Thirteen small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all thirteen from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
+Fifteen small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all fifteen from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
 
 | Tool | What it does |
 |:-----|:-------------|
@@ -26,6 +26,8 @@ Thirteen small, open-source tools that make Claude Code cheaper, safer and easie
 | **[claude-session-tidy](https://github.com/nrzz/claude-session-tidy)** | Delete, keep and restore your sessions before the 30-day cleanup removes them |
 | **[claude-permission-doctor](https://github.com/nrzz/claude-permission-doctor)** | See why a permission prompt appeared, drop dead rules and add the ones you keep approving by hand |
 | **[claude-hook-bench](https://github.com/nrzz/claude-hook-bench)** | Run every hook with the exact JSON Claude Code sends, and see whether it blocks, allows, adds context or fails |
+| **[claude-relocate](https://github.com/nrzz/claude-relocate)** | Move Claude Code's config folder to another drive or the XDG folders, with `CLAUDE_CONFIG_DIR` set for every shell and an undo |
+| **[claude-settings-doctor](https://github.com/nrzz/claude-settings-doctor)** | A commented `settings.jsonc` that builds `settings.json`, the merged settings with their source, and a lint that finds what Claude Code ignores in silence |
 
 Set them up in one click: this opens a local setup page with the recommended tools already switched on.
 
