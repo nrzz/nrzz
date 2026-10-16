@@ -9,7 +9,7 @@
 
 ### [Claude Code toolkit](https://github.com/nrzz/claude-code-toolkit)
 
-Seventeen small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all seventeen from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
+Nineteen small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all nineteen from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
 
 | Tool | What it does |
 |:-----|:-------------|
@@ -30,6 +30,8 @@ Seventeen small, open-source tools that make Claude Code cheaper, safer and easi
 | **[claude-settings-doctor](https://github.com/nrzz/claude-settings-doctor)** | A commented `settings.jsonc` that builds `settings.json`, the merged settings with their source, and a lint that finds what Claude Code ignores in silence |
 | **[claude-automode-doctor](https://github.com/nrzz/claude-automode-doctor)** | What auto mode and its classifier decided, read from your transcripts, which refusals were the service rather than your settings, and a lint of the `autoMode` settings |
 | **[claude-mcp-check](https://github.com/nrzz/claude-mcp-check)** | Every MCP server Claude Code would load and from which file, started the way Claude Code starts it, with what its tools cost in context |
+| **[claude-sandbox-doctor](https://github.com/nrzz/claude-sandbox-doctor)** | Whether Claude Code's Bash sandbox can work on your machine, why a command ran inside it or outside it, and the sandbox settings that never take effect |
+| **[claude-windows-doctor](https://github.com/nrzz/claude-windows-doctor)** | On Windows: which shell the Bash tool gets and why, every `claude` on the machine, and the setup problems behind common Windows issues |
 
 Set them up in one click: this opens a local setup page with the recommended tools already switched on.
 
