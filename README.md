@@ -9,7 +9,7 @@
 
 ### [Claude Code toolkit](https://github.com/nrzz/claude-code-toolkit)
 
-Fifteen small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all fifteen from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
+Seventeen small, open-source tools that make Claude Code cheaper, safer and easier to share. No dependencies, few or no tokens, one plugin marketplace, and an end-to-end test that installs all seventeen from GitHub on Windows, macOS and Linux. [Website](https://nrzz.github.io/claude-code-toolkit/).
 
 | Tool | What it does |
 |:-----|:-------------|
@@ -28,6 +28,8 @@ Fifteen small, open-source tools that make Claude Code cheaper, safer and easier
 | **[claude-hook-bench](https://github.com/nrzz/claude-hook-bench)** | Run every hook with the exact JSON Claude Code sends, and see whether it blocks, allows, adds context or fails |
 | **[claude-relocate](https://github.com/nrzz/claude-relocate)** | Move Claude Code's config folder to another drive or the XDG folders, with `CLAUDE_CONFIG_DIR` set for every shell and an undo |
 | **[claude-settings-doctor](https://github.com/nrzz/claude-settings-doctor)** | A commented `settings.jsonc` that builds `settings.json`, the merged settings with their source, and a lint that finds what Claude Code ignores in silence |
+| **[claude-automode-doctor](https://github.com/nrzz/claude-automode-doctor)** | What auto mode and its classifier decided, read from your transcripts, which refusals were the service rather than your settings, and a lint of the `autoMode` settings |
+| **[claude-mcp-check](https://github.com/nrzz/claude-mcp-check)** | Every MCP server Claude Code would load and from which file, started the way Claude Code starts it, with what its tools cost in context |
 
 Set them up in one click: this opens a local setup page with the recommended tools already switched on.
 
@@ -61,7 +63,7 @@ One messaging API for .NET that runs on RabbitMQ, Kafka, Redis Streams, Azure Se
 Sentinel and EventMesh are at the stage where outside eyes change the most: a bug report from a real deployment, a broker EventMesh does not cover yet, a dashboard Sentinel should ship by default.
 
 - Run self-hosted observability or event-driven .NET services? Tell me what is missing in [Sentinel discussions](https://github.com/nrzz/Sentinel/discussions) or [EventMesh discussions](https://github.com/nrzz/EventMesh/discussions).
-- Use Claude Code? Every toolkit repo has issues labelled good first issue, and ideas for new tools are welcome in [toolkit discussions](https://github.com/nrzz/claude-code-toolkit/discussions). I would also like to hear what your handover audit numbers look like.
+- Use Claude Code? Every toolkit repo has issues labelled good first issue, and ideas for new tools are welcome in [toolkit discussions](https://github.com/nrzz/claude-code-toolkit/discussions). I would also like to hear what your handover audit numbers look like: [share them here](https://github.com/nrzz/claude-code-handover/discussions/4).
 - Want to contribute? Start with a repo's contributing guide and roadmap, then open an issue so we can scope it together.
 - Found a project useful? A star helps other people find it, and following keeps you posted on releases.
 
