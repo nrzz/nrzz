@@ -1,6 +1,6 @@
 # Naresh
 
-**Backend engineer in Bangalore.** I build open-source infrastructure in .NET, and tools that make AI coding sessions cheaper to run.
+**Backend engineer in Bangalore.** I build .NET infrastructure that stays up, and Claude Code tools that keep your token bill down. Powered by filter coffee and a grudge against cache re-writes.
 
 [![Follow @nrzz](https://img.shields.io/github/followers/nrzz?style=flat-square&logo=github&logoColor=white&label=Follow%20%40nrzz&color=181717)](https://github.com/nrzz?tab=followers)
 [![Email](https://img.shields.io/badge/Email-nareshprabu18%40gmail.com-0A7ACA?style=flat-square)](mailto:nareshprabu18@gmail.com)
@@ -71,7 +71,7 @@ Sentinel and EventMesh are at the stage where outside eyes change the most: a bu
 
 ## Working with
 
-`C#` · `.NET` · `TypeScript` · `Python` · `Go` · `Dart / Flutter` · `PostgreSQL` · `ClickHouse` · `Docker` · `Kubernetes`
+`C#` · `.NET` · `TypeScript` · `Python` · `Go` · `Dart / Flutter` · `PostgreSQL` · `ClickHouse` · `Docker` · `Kubernetes` · and whatever the next bug demands
 
 ## Connect
 
@@ -82,4 +82,4 @@ Sentinel and EventMesh are at the stage where outside eyes change the most: a bu
 
 ---
 
-*Building tools that make distributed systems easier to run and reason about.*
+*Breaking things on my machine so they don't break on yours.*
