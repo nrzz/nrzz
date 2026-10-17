@@ -1,11 +1,19 @@
 # Naresh
 
-**Backend engineer in Bangalore.** I build .NET infrastructure that stays up, and Claude Code tools that keep your token bill down. Powered by filter coffee and a grudge against cache re-writes.
+**Backend engineer in Bangalore.** I build .NET infrastructure that stays up, and tools that keep AI coding agents cheap, safe and predictable, for Claude Code, Codex, Gemini CLI, Copilot CLI and Cursor. Powered by filter coffee and a grudge against cache re-writes.
 
 [![Follow @nrzz](https://img.shields.io/github/followers/nrzz?style=flat-square&logo=github&logoColor=white&label=Follow%20%40nrzz&color=181717)](https://github.com/nrzz?tab=followers)
 [![Email](https://img.shields.io/badge/Email-nareshprabu18%40gmail.com-0A7ACA?style=flat-square)](mailto:nareshprabu18@gmail.com)
 
 ## What I'm building
+
+### Tools for every coding agent
+
+Claude Code, Codex CLI, Gemini CLI, GitHub Copilot CLI and Cursor each have their own hooks, configuration files and quirks. These tools read what each agent actually reads and put every claim to the real binary, at zero tokens.
+
+| Tool | What it does |
+|:-----|:-------------|
+| **[everyhook](https://github.com/nrzz/everyhook)** | Write a hook once, run it in every coding agent: one contract, an adapter per agent, install and uninstall into each agent's configuration, and a bench that puts the hook to the JSON each real agent sends |
 
 ### [Claude Code toolkit](https://github.com/nrzz/claude-code-toolkit)
 
@@ -65,7 +73,7 @@ One messaging API for .NET that runs on RabbitMQ, Kafka, Redis Streams, Azure Se
 Sentinel and EventMesh are at the stage where outside eyes change the most: a bug report from a real deployment, a broker EventMesh does not cover yet, a dashboard Sentinel should ship by default.
 
 - Run self-hosted observability or event-driven .NET services? Tell me what is missing in [Sentinel discussions](https://github.com/nrzz/Sentinel/discussions) or [EventMesh discussions](https://github.com/nrzz/EventMesh/discussions).
-- Use Claude Code? Every toolkit repo has issues labelled good first issue, and ideas for new tools are welcome in [toolkit discussions](https://github.com/nrzz/claude-code-toolkit/discussions). I would also like to hear what your handover audit numbers look like: [share them here](https://github.com/nrzz/claude-code-handover/discussions/4).
+- Use a coding agent? Every repo has issues labelled good first issue, and ideas for new tools are welcome in [toolkit discussions](https://github.com/nrzz/claude-code-toolkit/discussions). I would also like to hear what your handover audit numbers look like: [share them here](https://github.com/nrzz/claude-code-handover/discussions/4).
 - Want to contribute? Start with a repo's contributing guide and roadmap, then open an issue so we can scope it together.
 - Found a project useful? A star helps other people find it, and following keeps you posted on releases.
 
