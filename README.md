@@ -14,6 +14,7 @@ Claude Code, Codex CLI, Gemini CLI, GitHub Copilot CLI and Cursor each have thei
 | Tool | What it does |
 |:-----|:-------------|
 | **[everyhook](https://github.com/nrzz/everyhook)** | Write a hook once, run it in every coding agent: one contract, an adapter per agent, install and uninstall into each agent's configuration, and a bench that puts the hook to the JSON each real agent sends |
+| **[codex-config-doctor](https://github.com/nrzz/codex-config-doctor)** | What Codex CLI will actually do with your configuration: every layer and the merged result with the source of each key, the AGENTS.md files against their 32 KiB cap, rules, hooks, MCP servers and the Windows sandbox, linted and checked against the real binary |
 
 ### [Claude Code toolkit](https://github.com/nrzz/claude-code-toolkit)
 
